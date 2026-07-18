@@ -14,7 +14,7 @@ This was my full fledged first personal project utilizing LaTeX for typesetting.
 ## Custom Autonomous Stack
 This detail is included in the latter section of the programming notebook, and while I never brought it to fruition I thought the stack was interesting and included it as an archive for future reference. I opted to use squiggles trajectory path generation as an alternative to building my own two-dimensional motion profiling solution (as those are math-intensive and difficult to debug) but I simply ran out of time to build this stack out considering I was also responsible for all other areas of the robot development.
 
-![Autonomous stack diagram for RAMSETE custom lib](https://raw.githubusercontent.com/atabbed/7135z_progdoc/refs/heads/main/Blank%20diagram%20%281%29.png?token=GHSAT0AAAAAAEBPQVNZ6ALZKARW7LKM4EV42S35S5Q)
+![Autonomous stack diagram for RAMSETE custom lib](https://github.com/atabbed/7135Z-Push-Back-Archive/blob/main/stack_diagram.png)
 
 > If you want to implement this be my guest I don't know if I would have
 > ever got it working since I think I made it like barely halfway
